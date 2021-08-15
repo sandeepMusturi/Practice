@@ -11,10 +11,10 @@ public class RestfullApplication {
 	}
 
 }
+// Demo project
 
-
-
-
-
-
-
+<<<<<<< HEAD
+// sample test
+=======
+//lets do something new
+>>>>>>> 73ab8edad18afafd4522cd50201bdc63ee3b4cc2
