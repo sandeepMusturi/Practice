@@ -19,6 +19,9 @@ public class CustomerController {
 	@Autowired
 	private CustomerService customerService;
 
+public static void test(){
+System.out.println("testing");}
+
 	@PostMapping("/create")
 	public Customer create(@RequestBody Customer customer) {
 		return customerService.create(customer);
